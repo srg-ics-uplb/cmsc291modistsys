@@ -16,7 +16,7 @@
 * [Virtual Time and Global States of Distributed Systems](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/Papers/mattern89.pdf). F. Mattern, 1988.
  
 ### Consensus
-*
+* [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf). L. Lamport. 2001
 
 ### Replication
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
