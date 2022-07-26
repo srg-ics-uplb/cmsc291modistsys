@@ -1,4 +1,4 @@
-# CMSC 291: Modern Distributed Systems Reading List
+# CMSC 291(Special Topics): Modern Distributed Systems Reading List
 
 ### Other Lists
 * [Distributed Systems Reading Group by Aleksey Charapko](http://charap.co/category/reading-group/)
