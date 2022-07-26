@@ -7,6 +7,8 @@
 * [Christopher Meiklejohn Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Prof. Murat's List of Foundational Distributed Systems Papers](https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html) 
 * [Jaried Ririe's Readings List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
+* [Damian Gryski's Reading List for Concensus and Distribued Lock Services](https://github.com/dgryski/awesome-consensus)
+
  
 ### Consensus
 
