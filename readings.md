@@ -17,7 +17,7 @@
 ### Replication
 ###### Foundational
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
-* [Viewstamped Replication Reviseted](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
+* [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
 
 ### Causality
@@ -44,6 +44,9 @@
 
 ### Production Systems
 *
+
+### Miscellaneous
+* [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf). B. W. Lampson
 
 ### Other Lists
 * [Distributed Systems Reading Group by Aleksey Charapko](http://charap.co/category/reading-group/)
