@@ -7,29 +7,36 @@
 * [Virtual Time and Global States of Distributed Systems](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/Papers/mattern89.pdf). F. Mattern, 1988.
  
 ### Consensus
+###### Foundational
 * [How to Build a Highly Available System Using Consensus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.8330&rep=rep1&type=pdf). B. W. Lampson
 * [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf). L. Lamport. 2001
 * [In Search of an Understandable Concensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14). D. Ongaro and J. Ousterhout. USENIX ATC 2014
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](https://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf). P. Hunt et al. USENIX ATC 2010
 
 ### Replication
+###### Foundational
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
 * [Viewstamped Replication Reviseted](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
 
 ### Causality
+###### Foundational
 *
 
 ### Transactions
+###### Foundational
 *
 
 ### Concurrency
+###### Foundational
 *
 
 ### Fault Tolerance
+###### Foundational
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
 
 ### Security and Trust
+###### Foundational
 *
 
 ### Production Systems
