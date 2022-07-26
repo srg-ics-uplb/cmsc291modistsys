@@ -36,7 +36,7 @@
 *
 
 ### Fault Tolerance
-*
+* [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
 
 ### Security and Trust
 *
