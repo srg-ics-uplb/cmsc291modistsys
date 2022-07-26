@@ -12,6 +12,8 @@
 
 ### Time, Clocks, and Global States
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf). Leslie Lamport, CACM 1978
+
+* [Distributed Snapshots: Determining Global States of Distributed Systems](https://lamport.azurewebsites.net/pubs/chandy.pdf). K. Mani Chandy and Leslie Lamport. ACM TOCS, 1985. 
  
 ### Consensus
 *
