@@ -17,7 +17,8 @@
  
 ### Consensus
 * [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf). L. Lamport. 2001
-* [In Search of an Understandable Concensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14). D. Ongaro and J. Ousterhout. ATC 2014
+* [In Search of an Understandable Concensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14). D. Ongaro and J. Ousterhout. USENIX ATC 2014
+* [ZooKeeper: Wait-free coordination for Internet-scale systems](https://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf). P. Hunt et al. USENIX ATC 2010
 
 ### Replication
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
