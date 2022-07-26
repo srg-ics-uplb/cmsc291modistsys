@@ -1,12 +1,12 @@
-#### Uncategorized
+### Uncategorized
 * [Distributed Systems Reading Group by Aleksey Charapko](http://charap.co/category/reading-group/)
 
-#### Consensus
+### Consensus
 
-#### Replication
+### Replication
 
-#### Causality
+### Causality
 
-#### Transactions
+### Transactions
 
-#### Concurrency
+### Concurrency
