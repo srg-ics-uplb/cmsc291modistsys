@@ -11,7 +11,7 @@
 
 
 ### Time, Clocks, and Global States
-* 
+* [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf). Leslie Lamport, CACM 1978
  
 ### Consensus
 *
