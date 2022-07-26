@@ -9,17 +9,30 @@
 * [Jaried Ririe's Readings List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
 * [Damian Gryski's Resources for Concensus and Distribued Lock Services](https://github.com/dgryski/awesome-consensus)
 
+
+### Time, Clocks, and Global States
  
 ### Consensus
+*
 
 ### Replication
+*
 
 ### Causality
+*
 
 ### Transactions
+*
 
 ### Concurrency
+*
 
 ### Fault Tolerance
+*
+
+### Security and Trust
+*
 
 ### Production Systems
+*
+
