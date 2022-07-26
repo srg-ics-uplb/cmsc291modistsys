@@ -34,6 +34,8 @@
 ### Fault Tolerance
 ###### Foundational
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
+* [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf). M. Castro and B. Liskov. 
+
 
 ### Security and Trust
 ###### Foundational
