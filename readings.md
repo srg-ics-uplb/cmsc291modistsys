@@ -5,6 +5,8 @@
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf). Leslie Lamport, CACM 1978
 * [Distributed Snapshots: Determining Global States of Distributed Systems](https://lamport.azurewebsites.net/pubs/chandy.pdf). K. Mani Chandy and Leslie Lamport. ACM TOCS, 1985. 
 * [Virtual Time and Global States of Distributed Systems](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/Papers/mattern89.pdf). F. Mattern, 1988.
+###### Recreational
+* 
  
 ### Consensus
 ###### Foundational
@@ -13,47 +15,58 @@
 * [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf). R V. Renesse and D. Altinbuken.
 * [In Search of an Understandable Concensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14). D. Ongaro and J. Ousterhout. USENIX ATC 2014
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](https://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf). P. Hunt et al. USENIX ATC 2010
+###### Recreational
+* 
 
 ### Replication
 ###### Foundational
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
 * [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
-
 ###### Recreational
+* 
+
 
 ### Causality
 ###### Foundational
 * [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf). M. P. Herlihy and J. M. Wing. ACM TOPLAS Vol. 12 No. 3 1990.
 
 ###### Recreational
+*
 
 ### Transactions
 ###### Foundational
 *
+
 ###### Recreational
+*
 
 ### Concurrency
 ###### Foundational
 *
 ###### Recreational
+*
 
 ### Fault Tolerance
 ###### Foundational
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
 * [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf). M. Castro and B. Liskov. 
 ###### Recreational
+*
 
 
 ### Security and Trust
 ###### Foundational
 *
 ###### Recreational
+*
 
 ### Programming Models
 ###### Foundational
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
+
 ###### Recreational
+*
 
 ### Impossibility Results
 ###### Foundational
