@@ -11,6 +11,7 @@
 ### Consensus
 ###### Foundational
 * [How to Build a Highly Available System Using Consensus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.8330&rep=rep1&type=pdf). B. W. Lampson
+* [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf). ACM 1998.
 * [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf). L. Lamport. 2001
 * [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf). R V. Renesse and D. Altinbuken.
 * [In Search of an Understandable Concensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14). D. Ongaro and J. Ousterhout. USENIX ATC 2014
@@ -61,7 +62,7 @@
 ###### Recreational
 *
 
-### Programming Models
+### Programming/Comoputatiion Models
 ###### Foundational
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
 
