@@ -62,9 +62,11 @@
 ###### Recreational
 *
 
-### Programming/Comoputatiion Models
+### Programming/Computatiion Models
 ###### Foundational
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
+* [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/03/eurosys07.pdf). M. Isard et al. EUROSYS 2007.
+
 
 ###### Recreational
 *
