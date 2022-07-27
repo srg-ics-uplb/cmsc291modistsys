@@ -22,7 +22,7 @@
 
 ### Causality
 ###### Foundational
-*
+* [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf). M. P. Herlihy and J. M. Wing. ACM TOPLAS Vol. 12 No. 3 1990.
 
 ### Transactions
 ###### Foundational
