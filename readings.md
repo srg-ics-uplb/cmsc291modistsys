@@ -20,35 +20,45 @@
 * [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
 
+###### Recreational
+
 ### Causality
 ###### Foundational
 * [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf). M. P. Herlihy and J. M. Wing. ACM TOPLAS Vol. 12 No. 3 1990.
 
+###### Recreational
+
 ### Transactions
 ###### Foundational
 *
+###### Recreational
 
 ### Concurrency
 ###### Foundational
 *
+###### Recreational
 
 ### Fault Tolerance
 ###### Foundational
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
 * [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf). M. Castro and B. Liskov. 
+###### Recreational
 
 
 ### Security and Trust
 ###### Foundational
 *
+###### Recreational
 
 ### Programming Models
 ###### Foundational
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
+###### Recreational
 
 ### Impossibility Results
 ###### Foundational
 * [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf). S. Gilbert and N. Lynch.
+###### Recreational
 
 ### Production Systems
 *
