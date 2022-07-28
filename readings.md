@@ -52,7 +52,8 @@
 * [Tapestry: A Resilient Global-Scale Overlay for Service Deployment](https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf). B. Y. Zhao et al. JSAC 2003.
 * [Cassandra: A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)A. Laskshman and P. Malik. LADIS 2009.
 
-
+#### Distributed Ledgers and Blockchain
+* 
 #### Programming/Computation Models
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
 * [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/03/eurosys07.pdf). M. Isard et al. EUROSYS 2007.
