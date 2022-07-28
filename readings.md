@@ -82,7 +82,7 @@
 
 ### Impossibility Results
 ###### Foundational
-* [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).M. J. Fisher and N. A. Lynch. ACM 1985.
+* [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).M. J. Fisher and N. A. Lynch. JACM 1985.
 * [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf). S. Gilbert and N. Lynch.
 ###### Recreational
 
