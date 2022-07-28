@@ -32,9 +32,10 @@
 
 
 #### Concurrency
+* [Solution of a Problem in Concurrent Programming Control](https://dl.acm.org/doi/10.1145/365559.365617). E.W. Dijkstra. CACM 1965.
 * [Wait-Free Synchronization](https://dl.acm.org/doi/10.1145/114005.102808). M. Herlihy. TOPLAS 1991.
 * [Transactional Memory: Architectural Support for Lock-Free Data Structures](https://dl.acm.org/doi/10.1145/165123.165164). M. Herlihy and J. E. Moss. ISCA 1993.
-* [The Computer Science of Concurrency: The Early Years](https://lamport.azurewebsites.net/pubs/turing.pdf). L. Lamport. 2015.
+* [The Computer Science of Concurrency: The Early Years](https://lamport.azurewebsites.net/pubs/turing.pdf). L. Lamport. 2015. 
 
 
 #### Fault Tolerance
