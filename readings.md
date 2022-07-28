@@ -33,6 +33,8 @@
 ### Causality
 ###### Foundational
 * [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf). M. P. Herlihy and J. M. Wing. ACM TOPLAS Vol. 12 No. 3 1990.
+* [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf). R. Schwarz and F. Mattern. 
+* [Understanding the Limitations of Causality and Totally Ordered Communication](https://www.cs.rice.edu/~alc/comp520/papers/Cheriton_Skeen.pdf). D. R. Cheriton and D. Skeen. SOSP 1993.
 
 ###### Recreational
 *
