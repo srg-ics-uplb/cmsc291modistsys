@@ -24,13 +24,11 @@
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
 * [Optimistic Replication](https://pages.lip6.fr/Marc.Shapiro/papers/Optimistic_Replication_Computing_Surveys_2005-03_cameraready.pdf). Y. Saito and M. Shapiro. ACM CS 2005.
 
-#### Causality
+#### Causality/Transactions
 * [Linearizability: A Correctness Condition for Concurrent Objects](https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf). M. P. Herlihy and J. M. Wing. ACM TOPLAS Vol. 12 No. 3 1990.
 * [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf). R. Schwarz and F. Mattern. 
 * [Understanding the Limitations of Causality and Totally Ordered Communication](https://www.cs.rice.edu/~alc/comp520/papers/Cheriton_Skeen.pdf). D. R. Cheriton and D. Skeen. SOSP 1993.
-
-#### Transactions
-*
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](https://www.cs.umd.edu/~abadi/papers/calvin-sigmod12.pdf). A. Thomson et al. ACM SIGMOD 2012.
 
 
 #### Concurrency
