@@ -34,6 +34,8 @@
 #### Concurrency
 * [Wait-Free Synchronization](https://dl.acm.org/doi/10.1145/114005.102808). M. Herlihy. TOPLAS 1991.
 * [Transactional Memory: Architectural Support for Lock-Free Data Structures](https://dl.acm.org/doi/10.1145/165123.165164). M. Herlihy and J. E. Moss. ISCA 1993.
+* [The Computer Science of Concurrency: The Early Years](https://lamport.azurewebsites.net/pubs/turing.pdf). L. Lamport. 2015.
+
 
 #### Fault Tolerance
 * [The Byzantine Generals Problem](https://www.cs.cornell.edu/courses/cs614/2004sp/papers/LSP82.pdf). L. Lamport et al. 
