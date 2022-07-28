@@ -57,7 +57,7 @@
 * [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).M. J. Fisher and N. A. Lynch. JACM 1985.
 * [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf). S. Gilbert and N. Lynch.
 
-## Industry Production Systems
+## Production Systems in Industry
 * [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf). Sanjay Ghemawat et al. SOSP 2003.
 * [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf). F. Chang et al. OSDI 2006.
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf). M. Burrows. OSDI 2006.
