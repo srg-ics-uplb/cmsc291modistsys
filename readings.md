@@ -23,6 +23,7 @@
 
 ### Replication
 ###### Foundational
+* [Replication Techniques for Availability](https://www.researchgate.net/publication/221029788_Replication_Techniques_for_Availability). R. van Renesse and R. Guerraoui. 
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf).B. Oki and B. H. Liskov. SOSP 1988.
 * [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf).B. Liskov and J. Cowling.
 * [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/renesse/renesse.pdf).R. van Renesse and F. B. Schneider. USENIX OSDI '04. 
@@ -57,6 +58,7 @@
 * [The Byzantine Generals Problem](https://www.cs.cornell.edu/courses/cs614/2004sp/papers/LSP82.pdf). L. Lamport et al. 
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: a Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf). F. B. Schneider.
 * [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf). M. Castro and B. Liskov. 
+* [Concurrency Control and Recovery in Database Systems](https://courses.cs.washington.edu/courses/cse551/09au/papers/CSE550BHG-Ch7.pdf). P.A. Bernstein et. al. Addison-Wesley 1987.
 ###### Recreational
 *
 
