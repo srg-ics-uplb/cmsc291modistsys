@@ -58,6 +58,7 @@
 * [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf). F. Chang et al. OSDI 2006.
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf). M. Burrows. OSDI 2006.
 * [Dynamo: Amazon's Highly Available Key-Value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf). G. DeCandia et al. SOSP 2007.
+* [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf). D. Peng and F. Dabek. SOSP 2010.
 * [Kafka: A Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf). J. Kreps et al. NetDB Workshop 2011
 * [Thialfi: A Client Notification Service for Internet-Scale Applications](http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/thia_sosp2011.pdf).A. Adya et al. SOSP 2011.
 * [Spanner: Google's Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf). J. C. Corbett et al. OSDI 2012.
