@@ -54,11 +54,11 @@
 * [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf). S. Gilbert and N. Lynch.
 
 ## Production Systems
-* [The Google File System]
-* [Dynamo: Amazon's Highly Available Key-Value Store]
-* [Bigtable: A Distributed Storage System for Structured Data]
-* [The Chubby Lock Service for Loosely-Coupled Distributed Systems]
-
+* [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf). Sanjay Ghemawat et al. SOSP 2003.
+* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf). F. Chang et al. OSDI 2006.
+* [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf). M. Burrows. OSDI 2006.
+* [Dynamo: Amazon's Highly Available Key-Value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf). G. DeCandia et al. SOSP 2007.
+* [Spanner: Google's Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf). J. C. Corbett et al. OSDI 2012.
 
 ## Miscellaneous
 * [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf). B. W. Lampson
