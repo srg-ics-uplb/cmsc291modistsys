@@ -1,7 +1,7 @@
 # CMSC 291(Special Topics): Modern Distributed Systems Reading List
 
 ## Foundational 
-### Time, Clocks, and Global States
+#### Time, Clocks, and Global States
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf). Leslie Lamport, CACM 1978
 * [Virtual Time and Global States of Distributed Systems](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/Papers/mattern89.pdf). F. Mattern, 1988.
 * [Consistent Global States of Distributed Systems: Fundamental Concepts and Mechanisms](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/chapt4.pdf). O. Babaoglu and K. Marzullo. UBLCS TR 1993.
