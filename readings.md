@@ -88,7 +88,10 @@
 ###### Recreational
 
 ### Production Systems
-*
+* [The Google File System]
+* [Dynamo: Amazon's Highly Available Key-Value Store]
+* [Bigtable: A Distributed Storage System for Structured Data]
+* [The Chubby Lock Service for Loosely-Coupled Distributed Systems]
 
 
 ### Miscellaneous
