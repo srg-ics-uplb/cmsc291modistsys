@@ -54,7 +54,7 @@
 
 #### Blockchain
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).S. Nakamoto. 2008. 
-* [Foundations of DIstributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf).E. Shi. 2020.
+* [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf).E. Shi. 2020.
 
 #### Programming/Computation Models
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).J. Dean and S. GHemawat. USENIX OSDI 2004.
