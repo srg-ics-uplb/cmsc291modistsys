@@ -48,7 +48,7 @@
 #### Peer-to-Peer and Distributed Hash Table
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf). I. Stoica et al. SIGCOMM 2001.
 * [Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems](https://rowstron.azurewebsites.net/PAST/pastry.pdf). ICDSP 2001.
-* [Kademlia: A Peer-to-peer Information System Based on XOR Metric). P. Maymounkov and D. Mazieres. 2002.
+* [Kademlia: A Peer-to-peer Information System Based on XOR Metric](https://www.scs.stanford.edu/~dm/home/papers/kpos.pdf). P. Maymounkov and D. Mazieres. 2002.
 * [Tapestry: A Resilient Global-Scale Overlay for Service Deployment](https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf). B. Y. Zhao et al. JSAC 2003.
 * [Cassandra: A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)A. Laskshman and P. Malik. LADIS 2009.
 
